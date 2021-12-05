@@ -16,7 +16,7 @@ I am an analytical thinker with a touch of artistic sense, having an indefinite 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/vijay-purohit) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/vijay.purohit_)|  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vijay.pu9@gmail.com)
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="16">](https://www.linkedin.com/in/vijay-purohit) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="16">](https://www.instagram.com/vijay.purohit_)|  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="16">](mailto:vijay.pu9@gmail.com)
 |:---:|:---:|:---:|
 
 <!--
