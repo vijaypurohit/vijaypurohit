@@ -7,10 +7,13 @@
 I am an analytical thinker with a touch of artistic sense, having an indefinite thirst for intellect, and who works with full devotion.
 
 - 🎓 &nbsp; I am Computer Science Graduate and currently doing M.Tech from IITG. :wolf:
-- 🤔 &nbsp; Introvert Energy, Creative Outlook, Organized View and Analytical Mindset.
-- 💼 &nbsp; Engineer, Scholar :book: and Designer
+- 🤔 &nbsp; Introvert Energy, Creative Outlook, Organized and Analytical Mindset.
+- 💼 &nbsp; Engineer, Scholar :book: and Artistic :page_with_curl:
 - 🌱 &nbsp; Learning, Exploring and paving my way towards growth.
-- ⚡ &nbsp; I love photography :camera:, cinematography :video_camera: and art :art:.
+- ⚡ &nbsp; I love photography :camera:, cinematography :video_camera:, poetry :black_nib: and art :art:.
+
+- :open_file_folder: &nbsp; some of the list of my repositories 
+[compiled list Sep 2022](https://gist.github.com/vijaypurohit/9ed5ff8269121a71ab07e84ff5eafa8d)
 
 <br>
 
