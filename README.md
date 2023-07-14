@@ -2,22 +2,20 @@
 
 
 <!-- About me -->
-<h3> ABOUT ME <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3> About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 I am an analytical thinker with a touch of artistic sense, having an indefinite thirst for intellect, and who works with full devotion.
 
-- 🎓 &nbsp; I am Computer Science Graduate and currently doing M.Tech from IITG. :wolf:
+- 🎓 &nbsp; Computer Science PostGraduate from IITG :wolf:.
 - 🤔 &nbsp; Introvert Energy, Creative Outlook, Organized and Analytical Mindset.
-- 💼 &nbsp; Engineer, Scholar :book: and Artistic :page_with_curl:
+- 💼 &nbsp; Engineer, Scholar :book: and Artistic :page_with_curl:.
 - 🌱 &nbsp; Learning, Exploring and paving my way towards growth.
-- ⚡ &nbsp; I love photography :camera:, cinematography :video_camera:, poetry :black_nib: and art :art:.
+- ⚡ &nbsp; ove photography :camera:, cinematography :video_camera:, poetry :black_nib: and art :art:.
 
 - :open_file_folder: &nbsp; some of the list of my repositories 
 [compiled list Sep 2022](https://gist.github.com/vijaypurohit/9ed5ff8269121a71ab07e84ff5eafa8d)
 
-<br>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> Connect with Me &nbsp;🤝🏻</h3>
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="16">](https://www.linkedin.com/in/vijay-purohit) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="16">](https://www.instagram.com/vijay.purohit_)|  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="16">](mailto:vijay.pu9@gmail.com)
 |:---:|:---:|:---:|
