@@ -1,19 +1,25 @@
-## विजय पुरोहित | Vijay Purohit <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="30px"> 
+## Vijay Purohit | विजय पुरोहित <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="30px"> 
 
 
 <!-- About me -->
 <h3> About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-I am an analytical thinker with a touch of artistic sense, having an indefinite thirst for intellect, and who works with full devotion.
+I am an analytical thinker with a touch of artistic sense, driven by an insatiable thirst for knowledge and a deep sense of dedication. I approach every task with unwavering commitment and a never-give-up attitude.
 
-- 🎓 &nbsp; Computer Science PostGraduate from IITG :wolf:.
+My passion for learning and exploration has taught me that while no one knows everything, everyone knows something—and we can always learn from one another.
+
+From my first encounter with C++ in 11th grade to writing thousands of lines of code in a professional setting, my journey has been one of continuous growth.
+
+If you're interested in discussing my journey, competitive exams, emerging technologies, or building innovative products, feel free to DM me. I'd be more than happy to share my insights and experiences.
+
+- 🎓 &nbsp; Computer Science PostGraduate from IIT Guwahati.
 - 🤔 &nbsp; Introvert Energy, Creative Outlook, Organized and Analytical Mindset.
-- 💼 &nbsp; Engineer, Scholar :book: and Artistic :page_with_curl:.
+- 💼 &nbsp; Engineer, Scholar and Artistic :page_with_curl:.
 - 🌱 &nbsp; Learning, Exploring and paving my way towards growth.
-- ⚡ &nbsp; ove photography :camera:, cinematography :video_camera:, poetry :black_nib: and art :art:.
+- ⚡ &nbsp; Love photography :camera:, cinematography :video_camera:, poetry :black_nib: and art :art:.
 
-- :open_file_folder: &nbsp; some of the list of my repositories 
-[compiled list Sep 2022](https://gist.github.com/vijaypurohit/9ed5ff8269121a71ab07e84ff5eafa8d)
+- :open_file_folder: &nbsp; List of my repositories
+  [Compiled list Sep 2022](https://gist.github.com/vijaypurohit/9ed5ff8269121a71ab07e84ff5eafa8d)
 
 <h3> Connect with Me &nbsp;🤝🏻</h3>
 
